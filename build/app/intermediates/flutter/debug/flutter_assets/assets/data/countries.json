@@ -1,0 +1,876 @@
+{
+
+ "countries" :[
+     
+    {
+        "code": "1",
+        "label": "United States of America (+1)",
+        "flag": "aflag flag-un1"
+    }, {
+        "code": "1",
+        "label": "Canada (+1)",
+        "flag": "aflag flag-ca1"
+    }, {
+        "code": "7",
+        "label": "Russia (+7)",
+        "flag": "aflag flag-ru7"
+    }, {
+        "code": "7",
+        "label": "Kazakhstan (+7)",
+        "flag": "aflag flag-ka7"
+    }, {
+        "code": "20",
+        "label": "Egypt (+20)",
+        "flag": "aflag flag-eg20"
+    }, {
+        "code": "27",
+        "label": "South Africa (+27)",
+        "flag": "aflag flag-so27"
+    }, {
+        "code": "30",
+        "label": "Greece (+30)",
+        "flag": "aflag flag-gr30"
+    }, {
+        "code": "31",
+        "label": "Netherlands (+31)",
+        "flag": "aflag flag-ne31"
+    }, {
+        "code": "32",
+        "label": "Belgium (+32)",
+        "flag": "aflag flag-be32"
+    }, {
+        "code": "33",
+        "label": "France (+33)",
+        "flag": "aflag flag-fr33"
+    }, {
+        "code": "34",
+        "label": "Spain (+34)",
+        "flag": "aflag flag-sp34"
+    }, {
+        "code": "36",
+        "label": "Hungary (+36)",
+        "flag": "aflag flag-hu36"
+    }, {
+        "code": "39",
+        "label": "Italy (+39)",
+        "flag": "aflag flag-it39"
+    }, {
+        "code": "40",
+        "label": "Romania (+40)",
+        "flag": "aflag flag-ro40"
+    }, {
+        "code": "41",
+        "label": "Switzerland (+41)",
+        "flag": "aflag flag-sw41"
+    }, {
+        "code": "43",
+        "label": "Austria (+43)",
+        "flag": "aflag flag-au43"
+    }, {
+        "code": "44",
+        "label": "United Kingdom (+44)",
+        "flag": "aflag flag-un44"
+    }, {
+        "code": "44",
+        "label": "Guernsey (+44)",
+        "flag": "aflag flag-gu44"
+    }, {
+        "code": "44",
+        "label": "Isle of Man (+44)",
+        "flag": "aflag flag-is44"
+    }, {
+        "code": "44",
+        "label": "Jersey (+44)",
+        "flag": "aflag flag-je44"
+    }, {
+        "code": "45",
+        "label": "Denmark (+45)",
+        "flag": "aflag flag-de45"
+    }, {
+        "code": "46",
+        "label": "Sweden (+46)",
+        "flag": "aflag flag-sw46"
+    }, {
+        "code": "47",
+        "label": "Norway (+47)",
+        "flag": "aflag flag-no47"
+    }, {
+        "code": "48",
+        "label": "Poland (+48)",
+        "flag": "aflag flag-po48"
+    }, {
+        "code": "49",
+        "label": "Germany (+49)",
+        "flag": "aflag flag-ge49"
+    }, {
+        "code": "51",
+        "label": "Peru (+51)",
+        "flag": "aflag flag-pe51"
+    }, {
+        "code": "52",
+        "label": "Mexico (+52)",
+        "flag": "aflag flag-me52"
+    }, {
+        "code": "53",
+        "label": "Cuba (+53)",
+        "flag": "aflag flag-cu53"
+    }, {
+        "code": "54",
+        "label": "Argentina (+54)",
+        "flag": "aflag flag-ar54"
+    }, {
+        "code": "55",
+        "label": "Brazil (+55)",
+        "flag": "aflag flag-br55"
+    }, {
+        "code": "56",
+        "label": "Chile (+56)",
+        "flag": "aflag flag-ch56"
+    }, {
+        "code": "57",
+        "label": "Colombia (+57)",
+        "flag": "aflag flag-co57"
+    }, {
+        "code": "58",
+        "label": "Venezuela (+58)",
+        "flag": "aflag flag-ve58"
+    }, {
+        "code": "60",
+        "label": "Malaysia (+60)",
+        "flag": "aflag flag-ma60"
+    }, {
+        "code": "61",
+        "label": "Australia (+61)",
+        "flag": "aflag flag-au61"
+    }, {
+        "code": "62",
+        "label": "Indonesia (+62)",
+        "flag": "aflag flag-in62"
+    }, {
+        "code": "63",
+        "label": "Philippines (+63)",
+        "flag": "aflag flag-ph63"
+    }, {
+        "code": "64",
+        "label": "New Zealand (+64)",
+        "flag": "aflag flag-ne64"
+    }, {
+        "code": "65",
+        "label": "Singapore (+65)",
+        "flag": "aflag flag-si65"
+    }, {
+        "code": "66",
+        "label": "Thailand (+66)",
+        "flag": "aflag flag-th66"
+    }, {
+        "code": "81",
+        "label": "Japan (+81)",
+        "flag": "aflag flag-ja81"
+    }, {
+        "code": "South",
+        "label": "Korea (+South) (+82)",
+        "flag": "aflag flag-ko82"
+    }, {
+        "code": "84",
+        "label": "Vietnam (+84)",
+        "flag": "aflag flag-vi84"
+    }, {
+        "code": "86",
+        "label": "China (+86)",
+        "flag": "aflag flag-ch86"
+    }, {
+        "code": "90",
+        "label": "Turkey (+90)",
+        "flag": "aflag flag-tu90"
+    }, {
+        "code": "91",
+        "label": "India (+91)",
+        "flag": "aflag flag-in91"
+    }, {
+        "code": "92",
+        "label": "Pakistan (+92)",
+        "flag": "aflag flag-pa92"
+    }, {
+        "code": "93",
+        "label": "Afghanistan (+93)",
+        "flag": "aflag flag-af93"
+    }, {
+        "code": "94",
+        "label": "Sri Lanka (+94)",
+        "flag": "aflag flag-sr94"
+    }, {
+        "code": "95",
+        "label": "Myanmar (+95)",
+        "flag": "aflag flag-my95"
+    }, {
+        "code": "98",
+        "label": "Iran (+98)",
+        "flag": "aflag flag-ir98"
+    }, {
+        "code": "212",
+        "label": "Morocco (+212)",
+        "flag": "aflag flag-mo212"
+    }, {
+        "code": "213",
+        "label": "Algeria (+213)",
+        "flag": "aflag flag-al213"
+    }, {
+        "code": "216",
+        "label": "Tunisia (+216)",
+        "flag": "aflag flag-tu216"
+    }, {
+        "code": "218",
+        "label": "Libya (+218)",
+        "flag": "aflag flag-li218"
+    }, {
+        "code": "220",
+        "label": "Gambia (+220)",
+        "flag": "aflag flag-ga220"
+    }, {
+        "code": "221",
+        "label": "Senegal (+221)",
+        "flag": "aflag flag-se221"
+    }, {
+        "code": "222",
+        "label": "Mauritania (+222)",
+        "flag": "aflag flag-ma222"
+    }, {
+        "code": "223",
+        "label": "Mali Republic (+223)",
+        "flag": "aflag flag-ma223"
+    }, {
+        "code": "224",
+        "label": "Guinea (+224)",
+        "flag": "aflag flag-gu224"
+    }, {
+        "code": "225",
+        "label": "Ivory Coast (+225)",
+        "flag": "aflag flag-iv225"
+    }, {
+        "code": "226",
+        "label": "Burkina Faso (+226)",
+        "flag": "aflag flag-bu226"
+    }, {
+        "code": "227",
+        "label": "Niger (+227)",
+        "flag": "aflag flag-ni227"
+    }, {
+        "code": "228",
+        "label": "Togo (+228)",
+        "flag": "aflag flag-to228"
+    }, {
+        "code": "229",
+        "label": "Benin (+229)",
+        "flag": "aflag flag-be229"
+    }, {
+        "code": "230",
+        "label": "Mauritius (+230)",
+        "flag": "aflag flag-ma230"
+    }, {
+        "code": "231",
+        "label": "Liberia (+231)",
+        "flag": "aflag flag-li231"
+    }, {
+        "code": "232",
+        "label": "Sierra Leone (+232)",
+        "flag": "aflag flag-si232"
+    }, {
+        "code": "233",
+        "label": "Ghana (+233)",
+        "flag": "aflag flag-gh233"
+    }, {
+        "code": "234",
+        "label": "Nigeria (+234)",
+        "flag": "aflag flag-ni234"
+    }, {
+        "code": "235",
+        "label": "Chad (+235)",
+        "flag": "aflag flag-ch235"
+    }, {
+        "code": "236",
+        "label": "Central African Republic (+236)",
+        "flag": "aflag flag-ce236"
+    }, {
+        "code": "237",
+        "label": "Cameroon (+237)",
+        "flag": "aflag flag-ca237"
+    }, {
+        "code": "238",
+        "label": "Cape Verde Islands (+238)",
+        "flag": "aflag flag-ca238"
+    }, {
+        "code": "239",
+        "label": "Sao Tome and Principe (+239)",
+        "flag": "aflag flag-sa239"
+    }, {
+        "code": "241",
+        "label": "Gabon (+241)",
+        "flag": "aflag flag-ga241"
+    }, {
+        "code": "242",
+        "label": "Congo (+242)",
+        "flag": "aflag flag-co242"
+    }, {
+        "code": "243",
+        "label": "Congo, Democratic Republ (+243)",
+        "flag": "aflag flag-co243"
+    }, {
+        "code": "244",
+        "label": "Angola (+244)",
+        "flag": "aflag flag-an244"
+    }, {
+        "code": "245",
+        "label": "Guinea-Bissau (+245)",
+        "flag": "aflag flag-gu245"
+    }, {
+        "code": "248",
+        "label": "Seychelles (+248)",
+        "flag": "aflag flag-se248"
+    }, {
+        "code": "249",
+        "label": "Sudan (+249)",
+        "flag": "aflag flag-su249"
+    }, {
+        "code": "250",
+        "label": "Rwanda (+250)",
+        "flag": "aflag flag-rw250"
+    }, {
+        "code": "251",
+        "label": "Ethiopia (+251)",
+        "flag": "aflag flag-et251"
+    }, {
+        "code": "252",
+        "label": "Somalia (+252)",
+        "flag": "aflag flag-so252"
+    }, {
+        "code": "253",
+        "label": "Djibouti (+253)",
+        "flag": "aflag flag-dj253"
+    }, {
+        "code": "254",
+        "label": "Kenya (+254)",
+        "flag": "aflag flag-ke254"
+    }, {
+        "code": "255",
+        "label": "Tanzania (+255)",
+        "flag": "aflag flag-ta255"
+    }, {
+        "code": "256",
+        "label": "Uganda (+256)",
+        "flag": "aflag flag-ug256"
+    }, {
+        "code": "257",
+        "label": "Burundi (+257)",
+        "flag": "aflag flag-bu257"
+    }, {
+        "code": "258",
+        "label": "Mozambique (+258)",
+        "flag": "aflag flag-mo258"
+    }, {
+        "code": "260",
+        "label": "Zambia (+260)",
+        "flag": "aflag flag-za260"
+    }, {
+        "code": "261",
+        "label": "Madagascar (+261)",
+        "flag": "aflag flag-ma261"
+    }, {
+        "code": "262",
+        "label": "Reunion (+262)",
+        "flag": "aflag flag-re262"
+    }, {
+        "code": "263",
+        "label": "Zimbabwe (+263)",
+        "flag": "aflag flag-zi263"
+    }, {
+        "code": "264",
+        "label": "Namibia (+264)",
+        "flag": "aflag flag-na264"
+    }, {
+        "code": "265",
+        "label": "Malawi (+265)",
+        "flag": "aflag flag-ma265"
+    }, {
+        "code": "266",
+        "label": "Lesotho (+266)",
+        "flag": "aflag flag-le266"
+    }, {
+        "code": "267",
+        "label": "Botswana (+267)",
+        "flag": "aflag flag-bo267"
+    }, {
+        "code": "268",
+        "label": "Swaziland (+268)",
+        "flag": "aflag flag-sw268"
+    }, {
+        "code": "269",
+        "label": "Mayotte Island (+269)",
+        "flag": "aflag flag-ma269"
+    }, {
+        "code": "297",
+        "label": "Aruba (+297)",
+        "flag": "aflag flag-ar297"
+    }, {
+        "code": "298",
+        "label": "Faroe Islands (+298)",
+        "flag": "aflag flag-fa298"
+    }, {
+        "code": "299",
+        "label": "Greenland (+299)",
+        "flag": "aflag flag-gr299"
+    }, {
+        "code": "350",
+        "label": "Gibraltar (+350)",
+        "flag": "aflag flag-gi350"
+    }, {
+        "code": "351",
+        "label": "Portugal (+351)",
+        "flag": "aflag flag-po351"
+    }, {
+        "code": "352",
+        "label": "Luxembourg (+352)",
+        "flag": "aflag flag-lu352"
+    }, {
+        "code": "353",
+        "label": "Ireland (+353)",
+        "flag": "aflag flag-ir353"
+    }, {
+        "code": "354",
+        "label": "Iceland (+354)",
+        "flag": "aflag flag-ic354"
+    }, {
+        "code": "355",
+        "label": "Albania (+355)",
+        "flag": "aflag flag-al355"
+    }, {
+        "code": "356",
+        "label": "Malta (+356)",
+        "flag": "aflag flag-ma356"
+    }, {
+        "code": "357",
+        "label": "Cyprus (+357)",
+        "flag": "aflag flag-cy357"
+    }, {
+        "code": "358",
+        "label": "Finland (+358)",
+        "flag": "aflag flag-fi358"
+    }, {
+        "code": "359",
+        "label": "Bulgaria (+359)",
+        "flag": "aflag flag-bu359"
+    }, {
+        "code": "370",
+        "label": "Lithuania (+370)",
+        "flag": "aflag flag-li370"
+    }, {
+        "code": "371",
+        "label": "Latvia (+371)",
+        "flag": "aflag flag-la371"
+    }, {
+        "code": "372",
+        "label": "Estonia (+372)",
+        "flag": "aflag flag-es372"
+    }, {
+        "code": "373",
+        "label": "Moldova (+373)",
+        "flag": "aflag flag-mo373"
+    }, {
+        "code": "374",
+        "label": "Armenia (+374)",
+        "flag": "aflag flag-ar374"
+    }, {
+        "code": "375",
+        "label": "Belarus (+375)",
+        "flag": "aflag flag-be375"
+    }, {
+        "code": "376",
+        "label": "Andorra (+376)",
+        "flag": "aflag flag-an376"
+    }, {
+        "code": "377",
+        "label": "Monaco (+377)",
+        "flag": "aflag flag-mo377"
+    }, {
+        "code": "378",
+        "label": "San Marino (+378)",
+        "flag": "aflag flag-sa378"
+    }, {
+        "code": "380",
+        "label": "Ukraine (+380)",
+        "flag": "aflag flag-uk380"
+    }, {
+        "code": "381",
+        "label": "Serbia (+381)",
+        "flag": "aflag flag-se381"
+    }, {
+        "code": "382",
+        "label": "Montenegro (+382)",
+        "flag": "aflag flag-mo382"
+    }, {
+        "code": "385",
+        "label": "Croatia (+385)",
+        "flag": "aflag flag-cr385"
+    }, {
+        "code": "386",
+        "label": "Slovenia (+386)",
+        "flag": "aflag flag-sl386"
+    }, {
+        "code": "387",
+        "label": "Bosnia-Herzegovina (+387)",
+        "flag": "aflag flag-bo387"
+    }, {
+        "code": "389",
+        "label": "Macedonia (+389)",
+        "flag": "aflag flag-ma389"
+    }, {
+        "code": "420",
+        "label": "Czech Republic (+420)",
+        "flag": "aflag flag-cz420"
+    }, {
+        "code": "421",
+        "label": "Slovakia (+421)",
+        "flag": "aflag flag-sl421"
+    }, {
+        "code": "423",
+        "label": "Liechtenstein (+423)",
+        "flag": "aflag flag-li423"
+    }, {
+        "code": "500",
+        "label": "Falkland Islands (+500)",
+        "flag": "aflag flag-fa500"
+    }, {
+        "code": "501",
+        "label": "Belize (+501)",
+        "flag": "aflag flag-be501"
+    }, {
+        "code": "502",
+        "label": "Guatemala (+502)",
+        "flag": "aflag flag-gu502"
+    }, {
+        "code": "503",
+        "label": "El Salvador (+503)",
+        "flag": "aflag flag-el503"
+    }, {
+        "code": "504",
+        "label": "Honduras (+504)",
+        "flag": "aflag flag-ho504"
+    }, {
+        "code": "505",
+        "label": "Nicaragua (+505)",
+        "flag": "aflag flag-ni505"
+    }, {
+        "code": "506",
+        "label": "Costa Rica (+506)",
+        "flag": "aflag flag-co506"
+    }, {
+        "code": "507",
+        "label": "Panama (+507)",
+        "flag": "aflag flag-pa507"
+    }, {
+        "code": "509",
+        "label": "Haiti (+509)",
+        "flag": "aflag flag-ha509"
+    }, {
+        "code": "590",
+        "label": "Guadeloupe (+590)",
+        "flag": "aflag flag-gu590"
+    }, {
+        "code": "591",
+        "label": "Bolivia (+591)",
+        "flag": "aflag flag-bo591"
+    }, {
+        "code": "592",
+        "label": "Guyana (+592)",
+        "flag": "aflag flag-gu592"
+    }, {
+        "code": "593",
+        "label": "Ecuador (+593)",
+        "flag": "aflag flag-ec593"
+    }, {
+        "code": "594",
+        "label": "French Guiana (+594)",
+        "flag": "aflag flag-fr594"
+    }, {
+        "code": "595",
+        "label": "Paraguay (+595)",
+        "flag": "aflag flag-pa595"
+    }, {
+        "code": "596",
+        "label": "Martinique (+596)",
+        "flag": "aflag flag-ma596"
+    }, {
+        "code": "597",
+        "label": "Suriname (+597)",
+        "flag": "aflag flag-su597"
+    }, {
+        "code": "598",
+        "label": "Uruguay (+598)",
+        "flag": "aflag flag-ur598"
+    }, {
+        "code": "599",
+        "label": "Netherlands Antilles (+599)",
+        "flag": "aflag flag-ne599"
+    }, {
+        "code": "670",
+        "label": "Timor-Leste (+670)",
+        "flag": "aflag flag-ti670"
+    }, {
+        "code": "1671",
+        "label": "Guam (+1671)",
+        "flag": "aflag flag-gu1671"
+    }, {
+        "code": "673",
+        "label": "Brunei (+673)",
+        "flag": "aflag flag-br673"
+    }, {
+        "code": "674",
+        "label": "Nauru (+674)",
+        "flag": "aflag flag-na674"
+    }, {
+        "code": "675",
+        "label": "Papua New Guinea (+675)",
+        "flag": "aflag flag-pa675"
+    }, {
+        "code": "676",
+        "label": "Tonga (+676)",
+        "flag": "aflag flag-to676"
+    }, {
+        "code": "677",
+        "label": "Solomon Islands (+677)",
+        "flag": "aflag flag-so677"
+    }, {
+        "code": "678",
+        "label": "Vanuatu (+678)",
+        "flag": "aflag flag-va678"
+    }, {
+        "code": "679",
+        "label": "Fiji Islands (+679)",
+        "flag": "aflag flag-fi679"
+    }, {
+        "code": "682",
+        "label": "Cook Islands (+682)",
+        "flag": "aflag flag-co682"
+    }, {
+        "code": "685",
+        "label": "Samoa (+685)",
+        "flag": "aflag flag-sa685"
+    }, {
+        "code": "687",
+        "label": "New Caledonia (+687)",
+        "flag": "aflag flag-ne687"
+    }, {
+        "code": "689",
+        "label": "French Polynesia (+689)",
+        "flag": "aflag flag-fr689"
+    }, {
+        "code": "North",
+        "label": "Korea (+North) (+850)",
+        "flag": "aflag flag-ko850"
+    }, {
+        "code": "852",
+        "label": "HongKong (+852)",
+        "flag": "aflag flag-ho852"
+    }, {
+        "code": "853",
+        "label": "Macau (+853)",
+        "flag": "aflag flag-ma853"
+    }, {
+        "code": "855",
+        "label": "Cambodia (+855)",
+        "flag": "aflag flag-ca855"
+    }, {
+        "code": "856",
+        "label": "Laos (+856)",
+        "flag": "aflag flag-la856"
+    }, {
+        "code": "880",
+        "label": "Bangladesh (+880)",
+        "flag": "aflag flag-ba880"
+    }, {
+        "code": "882",
+        "label": "International (+882)",
+        "flag": "aflag flag-in882"
+    }, {
+        "code": "886",
+        "label": "Taiwan (+886)",
+        "flag": "aflag flag-ta886"
+    }, {
+        "code": "960",
+        "label": "Maldives (+960)",
+        "flag": "aflag flag-ma960"
+    }, {
+        "code": "961",
+        "label": "Lebanon (+961)",
+        "flag": "aflag flag-le961"
+    }, {
+        "code": "962",
+        "label": "Jordan (+962)",
+        "flag": "aflag flag-jo962"
+    }, {
+        "code": "963",
+        "label": "Syria (+963)",
+        "flag": "aflag flag-sy963"
+    }, {
+        "code": "964",
+        "label": "Iraq (+964)",
+        "flag": "aflag flag-ir964"
+    }, {
+        "code": "965",
+        "label": "Kuwait (+965)",
+        "flag": "aflag flag-ku965"
+    }, {
+        "code": "966",
+        "label": "Saudi Arabia (+966)",
+        "flag": "aflag flag-sa966"
+    }, {
+        "code": "967",
+        "label": "Yemen (+967)",
+        "flag": "aflag flag-ye967"
+    }, {
+        "code": "968",
+        "label": "Oman (+968)",
+        "flag": "aflag flag-om968"
+    }, {
+        "code": "970",
+        "label": "Palestine (+970)",
+        "flag": "aflag flag-pa970"
+    }, {
+        "code": "971",
+        "label": "United Arab Emirates (+971)",
+        "flag": "aflag flag-un971"
+    }, {
+        "code": "972",
+        "label": "Israel (+972)",
+        "flag": "aflag flag-is972"
+    }, {
+        "code": "973",
+        "label": "Bahrain (+973)",
+        "flag": "aflag flag-ba973"
+    }, {
+        "code": "974",
+        "label": "Qatar (+974)",
+        "flag": "aflag flag-qa974"
+    }, {
+        "code": "975",
+        "label": "Bhutan (+975)",
+        "flag": "aflag flag-bh975"
+    }, {
+        "code": "976",
+        "label": "Mongolia (+976)",
+        "flag": "aflag flag-mo976"
+    }, {
+        "code": "977",
+        "label": "Nepal (+977)",
+        "flag": "aflag flag-ne977"
+    }, {
+        "code": "992",
+        "label": "Tajikistan (+992)",
+        "flag": "aflag flag-ta992"
+    }, {
+        "code": "993",
+        "label": "Turkmenistan (+993)",
+        "flag": "aflag flag-tu993"
+    }, {
+        "code": "994",
+        "label": "Azerbaijan (+994)",
+        "flag": "aflag flag-az994"
+    }, {
+        "code": "995",
+        "label": "Georgia (+995)",
+        "flag": "aflag flag-ge995"
+    }, {
+        "code": "996",
+        "label": "Kyrgyzstan (+996)",
+        "flag": "aflag flag-ky996"
+    }, {
+        "code": "998",
+        "label": "Uzbekistan (+998)",
+        "flag": "aflag flag-uz998"
+    }, {
+        "code": "1242",
+        "label": "Bahamas (+1242)",
+        "flag": "aflag flag-ba1242"
+    }, {
+        "code": "1246",
+        "label": "Barbados (+1246)",
+        "flag": "aflag flag-ba1246"
+    }, {
+        "code": "1264",
+        "label": "Anguilla (+1264)",
+        "flag": "aflag flag-an1264"
+    }, {
+        "code": "1268",
+        "label": "Antigua and Barbuda (+1268)",
+        "flag": "aflag flag-an1268"
+    }, {
+        "code": "1284",
+        "label": "Virgin Islands, British (+1284)",
+        "flag": "aflag flag-vi1284"
+    }, {
+        "code": "1345",
+        "label": "Cayman Islands (+1345)",
+        "flag": "aflag flag-ca1345"
+    }, {
+        "code": "1441",
+        "label": "Bermuda (+1441)",
+        "flag": "aflag flag-be1441"
+    }, {
+        "code": "1473",
+        "label": "Grenada (+1473)",
+        "flag": "aflag flag-gr1473"
+    }, {
+        "code": "1649",
+        "label": "Turks and Caicos Islands (+1649)",
+        "flag": "aflag flag-tu1649"
+    }, {
+        "code": "1664",
+        "label": "Montserrat (+1664)",
+        "flag": "aflag flag-mo1664"
+    }, {
+        "code": "1758",
+        "label": "Saint Lucia (+1758)",
+        "flag": "aflag flag-sa1758"
+    }, {
+        "code": "1767",
+        "label": "Dominica (+1767)",
+        "flag": "aflag flag-do1767"
+    }, {
+        "code": "1784",
+        "label": "St. Vincent and The Gren (+1784)",
+        "flag": "aflag flag-st1784"
+    }, {
+        "code": "1787",
+        "label": "Puerto Rico (+1787)",
+        "flag": "aflag flag-pu1787"
+    }, {
+        "code": "1809",
+        "label": "Dominican Republic (+1809)",
+        "flag": "aflag flag-do1809"
+    }, {
+        "code": "1829",
+        "label": "Dominican Republic2 (+1829)",
+        "flag": "aflag flag-do1829"
+    }, {
+        "code": "1849",
+        "label": "Dominican Republic3 (+1849)",
+        "flag": "aflag flag-do1849"
+    }, {
+        "code": "1868",
+        "label": "Trinidad and Tobago (+1868)",
+        "flag": "aflag flag-tr1868"
+    }, {
+        "code": "1869",
+        "label": "Saint Kitts and Nevis (+1869)",
+        "flag": "aflag flag-sa1869"
+    }, {
+        "code": "1876",
+        "label": "Jamaica (+1876)",
+        "flag": "aflag flag-ja1876"
+    }
+
+]
+
+
+
+
+}
